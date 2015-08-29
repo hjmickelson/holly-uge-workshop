@@ -7,3 +7,5 @@
 #git commit - takes a snapshot of the current state of the code.
 #git add - sends files to staging area or adds them to the index.
 #git config - set configurations values of git.
+#local repos are on your computer, remote repos live on the cloud.
+#make local branch and git branch the same name.
