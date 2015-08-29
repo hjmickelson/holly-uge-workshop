@@ -1,3 +1,6 @@
+#Hidden files have names that begi with a dot.
+#The .git directory stores all info about a repository.
+
 cd
 man less
 
